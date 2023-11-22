@@ -1,9 +1,9 @@
-package com.user.netflixclone.services.impl;
+package com.user.movieflix.services.impl;
 
-import com.user.netflixclone.daos.CommentDao;
-import com.user.netflixclone.entities.Comment;
-import com.user.netflixclone.exceptions.CommentDetailsNotFoundException;
-import com.user.netflixclone.services.CommentService;
+import com.user.movieflix.daos.CommentDao;
+import com.user.movieflix.entities.Comment;
+import com.user.movieflix.exceptions.CommentDetailsNotFoundException;
+import com.user.movieflix.services.CommentService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

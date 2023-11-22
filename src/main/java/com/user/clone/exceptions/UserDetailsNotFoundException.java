@@ -1,4 +1,4 @@
-package com.user.netflixclone.exceptions;
+package com.user.movieflix.exceptions;
 
 import java.util.function.Supplier;
 

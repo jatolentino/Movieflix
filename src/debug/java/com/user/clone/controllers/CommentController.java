@@ -1,9 +1,9 @@
-package com.user.netflixclone.controllers;
+package com.user.movieflix.controllers;
 
-import com.user.netflixclone.dtoes.CommentDTO;
-import com.user.netflixclone.entities.Comment;
-import com.user.netflixclone.exceptions.CommentDetailsNotFoundException;
-import com.user.netflixclone.services.impl.CommentServiceImpl;
+import com.user.movieflix.dtoes.CommentDTO;
+import com.user.movieflix.entities.Comment;
+import com.user.movieflix.exceptions.CommentDetailsNotFoundException;
+import com.user.movieflix.services.impl.CommentServiceImpl;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

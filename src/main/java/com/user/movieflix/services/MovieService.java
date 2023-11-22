@@ -1,7 +1,7 @@
-package com.user.netflixclone.services;
+package com.user.movieflix.services;
 
-import com.user.netflixclone.entities.Movie;
-import com.user.netflixclone.exceptions.MovieDetailsNotFoundException;
+import com.user.movieflix.entities.Movie;
+import com.user.movieflix.exceptions.MovieDetailsNotFoundException;
 
 import java.util.List;
 

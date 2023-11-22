@@ -1,7 +1,7 @@
-package com.user.netflixclone.controllers;
+package com.user.movieflix.controllers;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.user.netflixclone.services.impl.MovieUserServiceImpl;
+import com.user.movieflix.services.impl.MovieUserServiceImpl;
 import lombok.AllArgsConstructor;
 import java.lang.String;
 import org.springframework.http.ResponseEntity;

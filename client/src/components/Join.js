@@ -42,7 +42,7 @@ class Join extends Component {
   render() {
     return (
       <div style={{ flex: 1 }}>
-        {/* <h1 style={{color: 'red' , marginTop: 10, marginLeft: 0, fontFamily: 'fantasy'}}>NETFLIX</h1> */}
+        {/* <h1 style={{color: 'red' , marginTop: 10, marginLeft: 0, fontFamily: 'fantasy'}}>Movieflix</h1> */}
         <div
           className="container"
           style={{
@@ -59,7 +59,7 @@ class Join extends Component {
                 Set up your email and password and start your membership.
                 </p>
                 <p style={{ color: "white" }}>
-                    Sign up for Netflix in just a few more steps!
+                    Sign up for Movieflix in just a few more steps!
                   <br />
                   All complicated steps have been eliminated.
                 </p>

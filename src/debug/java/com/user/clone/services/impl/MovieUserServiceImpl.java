@@ -1,11 +1,11 @@
-package com.user.netflixclone.services.impl;
+package com.user.movieflix.services.impl;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.user.netflixclone.daos.MovieDao;
-import com.user.netflixclone.services.MovieUserService;
+import com.user.movieflix.daos.MovieDao;
+import com.user.movieflix.services.MovieUserService;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import org.springframework.http.HttpMethod;

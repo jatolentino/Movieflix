@@ -1,4 +1,4 @@
-package com.user.netflixclone.exceptions;
+package com.user.movieflix.exceptions;
 
 public class CommentDetailsNotFoundException extends Exception{
     public CommentDetailsNotFoundException(String s){

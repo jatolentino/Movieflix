@@ -1,7 +1,7 @@
-package com.user.netflixclone.services;
+package com.user.movieflix.services;
 
-import com.user.netflixclone.entities.Comment;
-import com.user.netflixclone.exceptions.CommentDetailsNotFoundException;
+import com.user.movieflix.entities.Comment;
+import com.user.movieflix.exceptions.CommentDetailsNotFoundException;
 
 public interface CommentService {
     Comment writeComment(Comment comment);

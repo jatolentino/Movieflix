@@ -1,6 +1,6 @@
-package com.user.netflixclone.exceptionhandlers;
+package com.user.movieflix.exceptionhandlers;
 
-import com.user.netflixclone.exceptions.MovieDetailsNotFoundException;
+import com.user.movieflix.exceptions.MovieDetailsNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

@@ -1,4 +1,4 @@
-package com.user.netflixclone.entities;
+package com.user.movieflix.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

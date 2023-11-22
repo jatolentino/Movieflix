@@ -1,5 +1,5 @@
 {
-  "name": "netflix-web",
+  "name": "movieflix-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

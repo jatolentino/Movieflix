@@ -1,10 +1,10 @@
-package com.user.netflixclone.controllers;
+package com.user.movieflix.controllers;
 
-import com.user.netflixclone.dtoes.MovieDTO;
-import com.user.netflixclone.entities.Movie;
-import com.user.netflixclone.exceptions.MovieDetailsNotFoundException;
-import com.user.netflixclone.exceptions.UserDetailsNotFoundException;
-import com.user.netflixclone.services.impl.MovieServiceImpl;
+import com.user.movieflix.dtoes.MovieDTO;
+import com.user.movieflix.entities.Movie;
+import com.user.movieflix.exceptions.MovieDetailsNotFoundException;
+import com.user.movieflix.exceptions.UserDetailsNotFoundException;
+import com.user.movieflix.services.impl.MovieServiceImpl;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

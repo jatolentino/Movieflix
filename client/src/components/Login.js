@@ -103,7 +103,7 @@ function Login({ authenticated, location }) {
         </p>
         <div className="row">
           <p className="col-sm-6" style={{ fontSize: 13, color: "gray" }}>
-            Netflix Not a member?
+            Movieflix Not a member?
           </p>
           <h5
             className="col-sm-6"

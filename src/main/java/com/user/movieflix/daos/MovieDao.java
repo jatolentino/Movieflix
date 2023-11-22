@@ -1,6 +1,6 @@
-package com.user.netflixclone.daos;
+package com.user.movieflix.daos;
 
-import com.user.netflixclone.entities.Movie;
+import com.user.movieflix.entities.Movie;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

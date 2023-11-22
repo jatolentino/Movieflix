@@ -1,9 +1,9 @@
-package com.user.netflixclone.controllers;
+package com.user.movieflix.controllers;
 
-import com.user.netflixclone.dtoes.UserDTO;
-import com.user.netflixclone.entities.User;
-import com.user.netflixclone.exceptions.UserDetailsNotFoundException;
-import com.user.netflixclone.services.impl.UserServiceImpl;
+import com.user.movieflix.dtoes.UserDTO;
+import com.user.movieflix.entities.User;
+import com.user.movieflix.exceptions.UserDetailsNotFoundException;
+import com.user.movieflix.services.impl.UserServiceImpl;
 import lombok.AllArgsConstructor;
 
 import org.slf4j.LoggerFactory;

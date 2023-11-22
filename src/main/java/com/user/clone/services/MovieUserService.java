@@ -1,4 +1,4 @@
-package com.user.netflixclone.services;
+package com.user.movieflix.services;
 
 import java.util.List;
 

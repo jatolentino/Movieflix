@@ -1,10 +1,10 @@
-package com.user.netflixclone.services.impl;
+package com.user.movieflix.services.impl;
 
-import com.user.netflixclone.daos.MovieDao;
-import com.user.netflixclone.entities.Movie;
-import com.user.netflixclone.exceptions.MovieDetailsNotFoundException;
-import com.user.netflixclone.exceptions.UserDetailsNotFoundException;
-import com.user.netflixclone.services.MovieService;
+import com.user.movieflix.daos.MovieDao;
+import com.user.movieflix.entities.Movie;
+import com.user.movieflix.exceptions.MovieDetailsNotFoundException;
+import com.user.movieflix.exceptions.UserDetailsNotFoundException;
+import com.user.movieflix.services.MovieService;
 import lombok.AllArgsConstructor;
 
 import org.slf4j.Logger;

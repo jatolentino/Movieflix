@@ -1,10 +1,10 @@
-package com.user.netflixclone.services.impl;
+package com.user.movieflix.services.impl;
 
 import javax.servlet.http.HttpSession;
-import com.user.netflixclone.daos.UserDao;
-import com.user.netflixclone.entities.User;
-import com.user.netflixclone.exceptions.UserDetailsNotFoundException;
-import com.user.netflixclone.services.UserService;
+import com.user.movieflix.daos.UserDao;
+import com.user.movieflix.entities.User;
+import com.user.movieflix.exceptions.UserDetailsNotFoundException;
+import com.user.movieflix.services.UserService;
 import lombok.AllArgsConstructor;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

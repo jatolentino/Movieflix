@@ -32,7 +32,7 @@ class MainNavbar extends Component {
               href="/"
               style={{ color: "red", fontFamily: "fantasy", fontSize: 25 }}
             >
-              NETFLIX
+              Movieflix
             </a>
 
             <li className="nav-item">

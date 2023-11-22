@@ -1,4 +1,4 @@
-package com.user.netflixclone.entities;
+package com.user.movieflix.entities;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

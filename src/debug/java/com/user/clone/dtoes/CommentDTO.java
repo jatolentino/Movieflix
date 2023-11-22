@@ -1,4 +1,4 @@
-package com.user.netflixclone.dtoes;
+package com.user.movieflix.dtoes;
 
 import lombok.*;
 
